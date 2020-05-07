@@ -12,7 +12,7 @@ var on_ground = false
 
 
 func _physics_process(delta):
-	
+
 	if Input.is_action_pressed("ui_left"):
 		get_node("Sprite").set_flip_h(true)
 		velocity.x = -WALK_SPEED
@@ -21,15 +21,15 @@ func _physics_process(delta):
 		velocity.x =  WALK_SPEED
 	else:
 		velocity.x = 0
-	
+
 	if Input.is_action_pressed("ui_up"):
 		if on_ground == true:
 			velocity.y = JUMP
 			on_ground = false
-	
+
 	if is_on_floor():
 		on_ground = true
-		 
+
 	else:
 		on_ground = false
 	velocity.y += GRAVITY

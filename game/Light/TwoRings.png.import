@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DirtTile.png-7461f60e9aa12dcb81e5298c18aabd04.stex"
+path="res://.import/TwoRings.png-34a2df0e0200ff999de843695f601dfc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/DirtTile.png"
-dest_files=[ "res://.import/DirtTile.png-7461f60e9aa12dcb81e5298c18aabd04.stex" ]
+source_file="res://Light/TwoRings.png"
+dest_files=[ "res://.import/TwoRings.png-34a2df0e0200ff999de843695f601dfc.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/FrameBox.png-4d3267cb077e18fcac8243c984c9b11a.stex"
+path="res://.import/FrameBox.png-b0c3bcd56ca6a47e97b6d5a11332952e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FrameBox.png"
-dest_files=[ "res://.import/FrameBox.png-4d3267cb077e18fcac8243c984c9b11a.stex" ]
+source_file="res://Player/FrameBox.png"
+dest_files=[ "res://.import/FrameBox.png-b0c3bcd56ca6a47e97b6d5a11332952e.stex" ]
 
 [params]
 
